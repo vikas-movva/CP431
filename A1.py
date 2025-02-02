@@ -1,7 +1,6 @@
 from mpi4py import MPI
 import gmpy2
 import time
-import math
 
 
 def find_largest_gap(start, end):
